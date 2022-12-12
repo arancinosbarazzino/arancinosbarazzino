@@ -1,4 +1,5 @@
-Ciaooo sono Arancia 
+Ciaooo sono Arancia🍊
+
  Attualmente studio Informatica e sono al 1° anno  
  
  Faccio schifo a programmare e non metto mai nulla su github perché so scemo
